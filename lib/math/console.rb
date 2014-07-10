@@ -3,7 +3,7 @@ require_relative 'calculator'
 class Console
 
   def initialize
-    @calculator = Calculator.new
+    @parser = Parser.new
   end
 
   def console
@@ -14,7 +14,8 @@ class Console
   end
 
   def input
-    parse Kernel.gets
+    output = @parser.parse Kernel.gets
+    show output
   end
 
 private
@@ -22,28 +23,11 @@ private
     Process.exit
   end
 
-
-  def parse input
-    operation, operand = input.split
-    exit if operation.to_s.downcase == "exit"
-
-    case operation
-      when "add"
-        show @calculator.add(operand.to_i)
-      when "subtract"
-        show @calculator.subtract(operand.to_i)
-      when "multiply"
-        show @calculator.multiply(operand.to_i)
-      when "divide"
-       show @calculator.divide(operand.to_i)
-      when "cancel"
-        show @calculator.reset
-      else
-        Kernel.puts "#{operation} is not supported."
-    end
-  end
-
   def show value
-    Kernel.puts "The value now is #{value}"
+    if value.nil?
+      Kernel.puts "Operation is not supported."
+    else
+      Kernel.puts "The value now is #{value}"
+    end
   end
 end

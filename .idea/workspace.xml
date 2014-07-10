@@ -13,21 +13,21 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/calculator_ruby@Parser__calculator_ruby.coverage" NAME="Parser: calculator_ruby Coverage Results" MODIFIED="1404982746580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
-    <SUITE FILE_PATH="coverage/calculator_ruby@Console_checks_for_divide_by_zero__calculator_ruby.coverage" NAME="Console checks for divide by zero: calculator_ruby Coverage Results" MODIFIED="1404976416424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
+    <SUITE FILE_PATH="coverage/calculator_ruby@Console_checks_for_divide_by_zero__calculator_ruby.coverage" NAME="Console checks for divide by zero: calculator_ruby Coverage Results" MODIFIED="1404984453887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
     <SUITE FILE_PATH="coverage/calculator_ruby@calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1404901734623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/math" MODULE_NAME="calculator_ruby" />
     <SUITE FILE_PATH="coverage/calculator_ruby@Calculator_division_should_divide_multiple_values__calculator_ruby.coverage" NAME="Calculator division should divide multiple values: calculator_ruby Coverage Results" MODIFIED="1404902315720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
     <SUITE FILE_PATH="coverage/calculator_ruby@Calculator_reset_should_reset_value_to_0__calculator_ruby.coverage" NAME="Calculator reset should reset value to 0: calculator_ruby Coverage Results" MODIFIED="1404902808311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
     <SUITE FILE_PATH="coverage/calculator_ruby@Run_spec__calculator_spec___calculator_ruby.coverage" NAME="Run spec 'calculator_spec': calculator_ruby Coverage Results" MODIFIED="1404902016089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
-    <SUITE FILE_PATH="coverage/calculator_ruby@Console__calculator_ruby.coverage" NAME="Console: calculator_ruby Coverage Results" MODIFIED="1404975143571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
-    <SUITE FILE_PATH="coverage/calculator_ruby@Console_invoking_console_calls_gets__calculator_ruby.coverage" NAME="Console invoking console calls gets: calculator_ruby Coverage Results" MODIFIED="1404975288912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
-    <SUITE FILE_PATH="coverage/calculator_ruby@Parser_should_parse_the_input_and_return_a_value__calculator_ruby.coverage" NAME="Parser should parse the input and return a value: calculator_ruby Coverage Results" MODIFIED="1404976294257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
-    <SUITE FILE_PATH="coverage/calculator_ruby@Console_invoking_exit_calls_Process_exit__calculator_ruby.coverage" NAME="Console invoking exit calls Process.exit: calculator_ruby Coverage Results" MODIFIED="1404975298301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
+    <SUITE FILE_PATH="coverage/calculator_ruby@Console__calculator_ruby.coverage" NAME="Console: calculator_ruby Coverage Results" MODIFIED="1404984710828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
+    <SUITE FILE_PATH="coverage/calculator_ruby@Console_invoking_console_calls_gets__calculator_ruby.coverage" NAME="Console invoking console calls gets: calculator_ruby Coverage Results" MODIFIED="1404984705273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
+    <SUITE FILE_PATH="coverage/calculator_ruby@Parser_should_parse_the_input_and_return_a_value__calculator_ruby.coverage" NAME="Parser should parse the input and return a value: calculator_ruby Coverage Results" MODIFIED="1404984300460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
+    <SUITE FILE_PATH="coverage/calculator_ruby@Console_invoking_exit_calls_Process_exit__calculator_ruby.coverage" NAME="Console invoking exit calls Process.exit: calculator_ruby Coverage Results" MODIFIED="1404984697844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
+    <SUITE FILE_PATH="coverage/calculator_ruby@console.coverage" NAME="console Coverage Results" MODIFIED="1404984695157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/math" MODULE_NAME="calculator_ruby" />
     <SUITE FILE_PATH="coverage/calculator_ruby@Calculator__calculator_ruby.coverage" NAME="Calculator: calculator_ruby Coverage Results" MODIFIED="1404976313857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
-    <SUITE FILE_PATH="coverage/calculator_ruby@console.coverage" NAME="console Coverage Results" MODIFIED="1404976299988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec/math" MODULE_NAME="calculator_ruby" />
     <SUITE FILE_PATH="coverage/calculator_ruby@Calculator_addition_should_add_multiple_values__calculator_ruby.coverage" NAME="Calculator addition should add multiple values: calculator_ruby Coverage Results" MODIFIED="1404902175351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
     <SUITE FILE_PATH="coverage/calculator_ruby@Calculator_parsing_should_add_the_number__calculator_ruby.coverage" NAME="Calculator parsing should add the number: calculator_ruby Coverage Results" MODIFIED="1404899253836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
     <SUITE FILE_PATH="coverage/calculator_ruby@Calculator_division__calculator_ruby.coverage" NAME="Calculator division: calculator_ruby Coverage Results" MODIFIED="1404902817612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
-    <SUITE FILE_PATH="coverage/calculator_ruby@parser.coverage" NAME="parser Coverage Results" MODIFIED="1404982917663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/math" MODULE_NAME="calculator_ruby" />
+    <SUITE FILE_PATH="coverage/calculator_ruby@parser.coverage" NAME="parser Coverage Results" MODIFIED="1404984222199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/math" MODULE_NAME="calculator_ruby" />
     <SUITE FILE_PATH="coverage/calculator_ruby@Calculator_subtraction_should_subtract_multiple_values__calculator_ruby.coverage" NAME="Calculator subtraction should subtract multiple values: calculator_ruby Coverage Results" MODIFIED="1404976407832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="calculator_ruby" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -44,21 +44,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.43179917">
       <split-first>
         <leaf>
-          <file leaf-file-name="console.rb" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="console.rb" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/math/console.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-241.5" vertical-offset="222" max-vertical-offset="810">
-                  <caret line="47" column="5" selection-start-line="45" selection-start-column="2" selection-end-line="47" selection-end-column="5" />
+                <state vertical-scroll-proportion="0.64439654" vertical-offset="106" max-vertical-offset="570">
+                  <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="parser.rb" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="parser.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/lib/math/parser.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.80686694" vertical-offset="329" max-vertical-offset="795">
-                  <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+                <state vertical-scroll-proportion="-67.0" vertical-offset="1" max-vertical-offset="720">
+                  <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
                   <folding />
                 </state>
               </provider>
@@ -91,18 +91,18 @@
           <file leaf-file-name="console_spec.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/spec/math/console_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-202.5" vertical-offset="0" max-vertical-offset="570">
-                  <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+                <state vertical-scroll-proportion="-187.0" vertical-offset="106" max-vertical-offset="570">
+                  <caret line="32" column="3" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="parser_spec.rb" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="parser_spec.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/spec/math/parser_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.22532189" vertical-offset="0" max-vertical-offset="466">
-                  <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+                <state vertical-scroll-proportion="0.19396552" vertical-offset="0" max-vertical-offset="464">
+                  <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -134,11 +134,11 @@
         <option value="$PROJECT_DIR$/spec/math/calculator_spec.rb" />
         <option value="$PROJECT_DIR$/spec/math/console.rb" />
         <option value="$PROJECT_DIR$/lib/math/calculator.rb" />
+        <option value="$PROJECT_DIR$/lib/math.rb" />
+        <option value="$PROJECT_DIR$/lib/math/parser.rb" />
         <option value="$PROJECT_DIR$/spec/math/console_spec.rb" />
         <option value="$PROJECT_DIR$/lib/math/console.rb" />
-        <option value="$PROJECT_DIR$/lib/math.rb" />
         <option value="$PROJECT_DIR$/spec/math/parser_spec.rb" />
-        <option value="$PROJECT_DIR$/lib/math/parser.rb" />
       </list>
     </option>
   </component>
@@ -272,7 +272,7 @@
       <recent name="$PROJECT_DIR$/lib/math" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.parser">
+  <component name="RunManager" selected="RSpec.Console: calculator_ruby">
     <configuration default="false" name="Console checks for divide by zero: calculator_ruby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="calculator_ruby" />
@@ -309,7 +309,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Calculator: calculator_ruby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration default="false" name="Console invoking console calls gets: calculator_ruby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="calculator_ruby" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -329,10 +329,10 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/math/calculator_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/math/console_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Calculator" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Console invoking console calls gets" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -345,7 +345,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Calculator subtraction should subtract multiple values: calculator_ruby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration default="false" name="Console invoking exit calls Process.exit: calculator_ruby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="calculator_ruby" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -365,10 +365,10 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/math/calculator_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/math/console_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Calculator subtraction should subtract multiple values" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Console invoking exit calls Process.exit" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -381,43 +381,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Parser: calculator_ruby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="calculator_ruby" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/math/parser_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Parser" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="parser" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="console" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="calculator_ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lib/math" />
@@ -433,8 +397,44 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lib/math/parser.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lib/math/console.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Console: calculator_ruby" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="calculator_ruby" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/math/console_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Console" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <RunnerSettings RunnerId="RubyRunner" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
@@ -524,18 +524,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="RSpec.Console checks for divide by zero: calculator_ruby" />
-      <item index="1" class="java.lang.String" itemvalue="RSpec.Calculator: calculator_ruby" />
-      <item index="2" class="java.lang.String" itemvalue="RSpec.Calculator subtraction should subtract multiple values: calculator_ruby" />
-      <item index="3" class="java.lang.String" itemvalue="RSpec.Parser: calculator_ruby" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.parser" />
+      <item index="1" class="java.lang.String" itemvalue="RSpec.Console invoking console calls gets: calculator_ruby" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.Console invoking exit calls Process.exit: calculator_ruby" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.console" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.Console: calculator_ruby" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.parser" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.Parser: calculator_ruby" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.Console checks for divide by zero: calculator_ruby" />
-        <item index="3" class="java.lang.String" itemvalue="RSpec.Calculator subtraction should subtract multiple values: calculator_ruby" />
-        <item index="4" class="java.lang.String" itemvalue="RSpec.Calculator: calculator_ruby" />
+        <item index="0" class="java.lang.String" itemvalue="RSpec.Console: calculator_ruby" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.Console invoking console calls gets: calculator_ruby" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.Console invoking exit calls Process.exit: calculator_ruby" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.console" />
+        <item index="4" class="java.lang.String" itemvalue="RSpec.Console checks for divide by zero: calculator_ruby" />
       </list>
     </recent_temporary>
   </component>
@@ -565,7 +565,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35085413" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35085413" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -603,26 +603,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/math/console_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-202.5" vertical-offset="0" max-vertical-offset="570">
-          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/math/calculator_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-210.0" vertical-offset="0" max-vertical-offset="720">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/math/console.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-241.5" vertical-offset="222" max-vertical-offset="810">
-          <caret line="47" column="5" selection-start-line="45" selection-start-column="2" selection-end-line="47" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -643,18 +627,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/math/parser_spec.rb">
+    <entry file="file://$PROJECT_DIR$/lib/math/parser.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22532189" vertical-offset="0" max-vertical-offset="466">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state vertical-scroll-proportion="-67.0" vertical-offset="1" max-vertical-offset="720">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/math/parser.rb">
+    <entry file="file://$PROJECT_DIR$/lib/math/console.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80686694" vertical-offset="329" max-vertical-offset="795">
-          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.64439654" vertical-offset="106" max-vertical-offset="570">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/math/console_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-187.0" vertical-offset="106" max-vertical-offset="570">
+          <caret line="32" column="3" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/math/parser_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19396552" vertical-offset="0" max-vertical-offset="464">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding />
         </state>
       </provider>

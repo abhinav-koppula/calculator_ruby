@@ -12,7 +12,7 @@ describe Console do
   it 'invoking console calls gets' do
     operation = "blahblah"
     allow(Kernel).to receive(:gets).and_return("#{operation} 3 ")
-    expect(Kernel).to receive(:puts).with("#{operation} is not supported.")
+    expect(Kernel).to receive(:puts).with("Operation is not supported.")
     console.input
   end
 

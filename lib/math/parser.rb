@@ -7,24 +7,24 @@ class Parser
     @calculator = Calculator.new
   end
 
-  def process input
+  def parse input
     operation, operand = input.split
     exit if operation.to_s.downcase == "exit"
     operand = operand.to_i unless operand.nil?
 
     case operation
       when "add"
-        show @calculator.add(operand)
+        @calculator.add(operand)
       when "subtract"
-        show @calculator.subtract(operand)
+        @calculator.subtract(operand)
       when "multiply"
-        show @calculator.multiply(operand)
+        @calculator.multiply(operand)
       when "divide"
-        show @calculator.divide(operand)
+        @calculator.divide(operand)
       when "cancel"
-        show @calculator.reset
+        @calculator.reset
       else
-        show nil, "#{operation} is not supported."
+        nil
     end
   end
 
@@ -34,15 +34,9 @@ class Parser
     Process.exit
   end
 
-  def show value, output=nil
-    if value.nil?
-      Kernel.puts output
-    else
-      Kernel.puts "The value now is #{value}"
-    end
-  end
+
 
 end
 
-parser = Parser.new
-parser.process("hahdj 5")
+# parser.process("hahdj 5")
+# parser = Parser.new
