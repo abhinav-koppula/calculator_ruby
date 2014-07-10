@@ -5,7 +5,7 @@ describe Console do
 
   it 'invoking console calls gets' do
     allow(Kernel).to receive(:gets).and_return("add 5")
-    expect(Kernel).to receive(:puts).with("The value now is 5")
+    expect(Kernel).to receive(:puts).with("The value now is 5.0")
     console.input
   end
 

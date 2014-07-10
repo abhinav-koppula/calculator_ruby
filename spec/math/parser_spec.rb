@@ -6,4 +6,6 @@ describe "Parser" do
     parser = Parser.new
     expect(parser.parse("add 5")).to eq(5)
   end
+
+
 end

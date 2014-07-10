@@ -1,5 +1,5 @@
 #parses the input and show results to user
-require_relative 'calculator'
+require_relative 'parser'
 class Console
 
   def initialize
@@ -8,7 +8,7 @@ class Console
 
   def console
     while 1
-      puts "Enter a command"
+      print "Enter a command >"
       input
     end
   end
@@ -19,9 +19,6 @@ class Console
   end
 
 private
-  def exit
-    Process.exit
-  end
 
   def show value
     if value.nil?
