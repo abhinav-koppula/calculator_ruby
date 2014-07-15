@@ -1,24 +1,21 @@
 # Takes input value and performs appropriate function
 class Calculator
-
+  attr_reader :current_value
   def initialize (value = 0)
     @current_value = value
   end
 
   def add input
-
     @current_value = @current_value + input
 
   end
 
   def subtract input
-
     @current_value = @current_value - input
 
   end
 
   def multiply input
-
     @current_value = @current_value * input
 
   end
@@ -58,9 +55,7 @@ class Calculator
   end
 
   def cancel
-
     @current_value = 0
-
   end
 
 end

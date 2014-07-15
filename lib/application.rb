@@ -1,18 +1,23 @@
 require_relative 'application/calculator'
-require_relative 'application/router'
 require_relative 'application/parser'
 require_relative 'application/input_output'
+require_relative 'application/command'
+require_relative 'application/command_history'
+require_relative 'application/add_command'
+require_relative 'application/subtract_command'
+require_relative 'application/cancel_command'
+require_relative 'application/repeat_command'
+require_relative 'application/exit_command'
 
 class Application
   def initialize
-    @operation
+    @command_history = CommandHistory.new
     @calculator = Calculator.new
-    @router = Router.new(@calculator)
-    @parser = Parser.new(@router)
+    @parser = Parser.new(@command_history, @calculator)
     @input_output = InputOutput.new(@parser)
 
     @input_output.console
   end
 
 end
-Application.new
+#Application.new

@@ -13,8 +13,9 @@ class InputOutput
 
   def input
     input = Kernel.gets
-    result = @parser.parse(input)
-    output result
+    command = @parser.parse(input)
+
+    output command.execute
   end
 
   def output result
